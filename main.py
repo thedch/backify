@@ -25,7 +25,7 @@ playlists = sp.current_user_playlists()
 for name, id in playlist_ids.items():
     print(f'Processing playlist {name}')
     with open(f'playlists/{name}.txt', 'w+') as f:
-        results = sp.user_playlist(username, id, fields="tracks,next")
+        results = sp.user_playlist(username, id)
         tracks = results['tracks']
         print_tracks(tracks, f)
         while tracks['next']:
