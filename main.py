@@ -8,10 +8,9 @@ os.environ['SPOTIPY_CLIENT_ID'] = CLIENT_ID
 os.environ['SPOTIPY_CLIENT_SECRET'] = CLIENT_SECRET
 os.environ['SPOTIPY_CLIENT_SECRET'] = REDIRECT_URI
 
+
 def print_tracks(tracks:dict, f):
     for track in tracks['items']:
-        # if track['track']['name'] == 'California Love': 
-        import pdb; pdb.set_trace()
         track = track['track'] # painful json nesting
         f.write(track['name'] + ' (by) ' + track['artists'][0]['name'] + '\n')
 
