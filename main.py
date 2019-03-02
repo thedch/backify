@@ -6,7 +6,7 @@ from private import CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, username, playlist_i
 
 os.environ['SPOTIPY_CLIENT_ID'] = CLIENT_ID
 os.environ['SPOTIPY_CLIENT_SECRET'] = CLIENT_SECRET
-os.environ['SPOTIPY_CLIENT_SECRET'] = REDIRECT_URI
+os.environ['SPOTIPY_REDIRECT_URI'] = REDIRECT_URI
 
 
 def print_tracks(tracks:dict, f):
