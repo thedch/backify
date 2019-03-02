@@ -26,7 +26,7 @@ R&G (by) Le Malls
 Anthem (by) AdhesiveWombat
 Depletion - Just A Gent Remix (by) Just A Gent
 Free Run (by) Instrumental Core
-Unbank (by) Plaid
+unbank (by) Plaid
 A City Game (by) Sayem
 Road & Lights - Original Mix (by) Melosense
 All I Want (by) The Reverb Junkie
@@ -47,9 +47,9 @@ Illusions - Radio Mix (by) LTN
 The Dark - Kevin Wild & Judah Remix (by) Boom Jinx
 Pacific - Original Mix (by) Oliver Smith
 Oculus (by) Luke Howard
-Drops of H2O (The Filtered Water Treatment) (ccMixter Mix) (by) J. Lang
+Drops of H2O (The Filtered Water Treatment) (ccMixter Mix) (by) J. Lang !! NOT PLAYABLE
 500 Seconds Before Sunset (by) David Maxim Micic
-What Fills the Gap (feat. Alan Watts) (by) Will Cady
+What Fills the Gap (by) Will Cady
 Run the Spring - Vivaldi Rework (by) Nömak
 Tranquility (by) Direct
 Bleach (by) Jez Dior
@@ -75,7 +75,7 @@ Crystals (by) Professor Kliq
 Thanks Bill (by) El Ten Eleven
 F.A.T. - Original Mix (by) Pryda
 Dream Catcher (by) Bassnectar
-rockstar (by) Post Malone
+rockstar (feat. 21 Savage) (by) Post Malone
 Superfly Slick Dick (by) Vengaboys
 North (by) Yotto
 Save Me - Thomas Schwartz & Fausto Fanizza Remix (by) Above & Beyond
@@ -99,7 +99,7 @@ First Breath After Coma (by) Explosions In The Sky
 The Dead Vineyard (by) Signal Hill
 Master of Gyroscopes (by) Random Rab
 Devil Part II (by) Imad Royal
-That It's Already Too Late To Leave (by) MCC [Magna Carta Cartel]
+That It's Already Too Late to Leave (by) MCC [Magna Carta Cartel]
 Champagne & Sunshine (by) PLVTINUM
 Blue Eyed Bitter (by) Aeroc
 Santa Fe (by) Beirut
@@ -151,7 +151,7 @@ Canon Pt. II (by) OVERWERK
 Infinite (by) Magic Sword
 Bonus Track - Switchblade (by) Pilotpriest
 Frequencies (by) FEYNMAN
-Leave A Trace (by) CHVRCHES
+Leave a Trace (by) CHVRCHES
 Never Say Die (by) CHVRCHES
 Miracle (by) CHVRCHES
 Pluto (by) Dreamers Delight
