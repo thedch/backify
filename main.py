@@ -32,8 +32,8 @@ playlists = sp.current_user_playlists()
 
 # iterate through playlists
 for name, id in playlist_ids.items():
-    print(f'Processing playlist {name}')
-    with open(f'playlists/{name}.txt', 'w+') as f:
+    print('Processing playlist', name)
+    with open('playlists/' + name + '.txt', 'w+') as f:
         tracks = sp.user_playlist_tracks(username, id, market=market)
         write_tracks(tracks, f)
         while tracks['next']:
@@ -44,5 +44,5 @@ for name, id in playlist_ids.items():
 # current_user_saved_tracks(), you must edit the library source code
 # for this to run
 saved_tracks = sp.current_user_saved_tracks(limit=50, market=market)
-with open(f'playlists/saved_tracks.txt', 'w+') as f:
+with open('playlists/saved_tracks.txt', 'w+') as f:
     write_tracks(saved_tracks, f)
