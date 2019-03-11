@@ -20,7 +20,8 @@ def write_tracks(tracks:dict, f):
         else:
             flag = ' !! PLAYABLE UNKNOWN'
 
-        f.write(track['name'] + ' (by) ' + track['artists'][0]['name'] + flag + '\n')
+        artists = ' (and) '.join(artist['name'] for artist in track['artists'])
+        f.write(track['name'] + ' (by) ' + artists + flag + '\n')
 
 
 scope = 'playlist-read-private'
