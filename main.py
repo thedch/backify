@@ -25,7 +25,7 @@ def write_tracks(tracks:dict, f):
 
 
 scope = 'playlist-read-private'
-market='from_token'
+market = 'from_token'
 token = util.prompt_for_user_token(username, scope)
 
 sp = spotipy.Spotify(auth=token)
@@ -41,9 +41,7 @@ for name, id in playlist_ids.items():
             tracks = sp.next(tracks)
             write_tracks(tracks, f)
 
-# grab saved tracks as well -- 'market' is not a supported keyword of
-# current_user_saved_tracks(), you must edit the library source code
-# for this to run
-saved_tracks = sp.current_user_saved_tracks(limit=50, market=market)
+# sp.current_user_saved_tracks does not support market keyword, so directly use _get
+saved_tracks = sp._get('me/tracks', limit=50, offset=0, market=market)
 with open('playlists/saved_tracks.txt', 'w+') as f:
     write_tracks(saved_tracks, f)
