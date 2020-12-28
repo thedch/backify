@@ -16,7 +16,7 @@ New Vibe (by) Jaytech
 Break Your Back (by) Jay Sean !! PLAYABLE UNKNOWN
 The Girl on the Train Remix (by) Kanye West !! PLAYABLE UNKNOWN
 Sun Through the Clouds (by) Matthew Morgan !! PLAYABLE UNKNOWN
-Storm (by) Yoshida Brothers !! NOT PLAYABLE
+STORM (by) Yoshida Brothers
 Honey Heart (by) Boreta
 Juggling Molecules (by) Shpongle
 Golden Gate (by) STS9
@@ -45,13 +45,13 @@ Million Reasons - Andrelli Remix (by) Lady Gaga (and) Andrelli
 Life - Original Mix (by) MitiS
 A Bad Place - Minnesota Remix (by) Shotgun Radio (and) Minnesota (and) Mimi Page
 Rise (Kye Kye Remix) (by) Josh Garrels
-On the Painted Desert (by) BOOM BOOM SATELLITES !! NOT PLAYABLE
+On The Painted Desert (by) BOOM BOOM SATELLITES !! NOT PLAYABLE
 Far, Hidden and Away - Intro (by) CRNKN
 Old Friends (by) Darren Korb
 Destroy It - Urban Contact Remix (by) Black Tiger Sex Machine (and) Urban Contact
 Revolution - RUN DMT Remix (by) Diplo (and) kai (and) Faustix & Imanos (and) Run DMT
 Different Stars - The Killabits Remix (by) Trespassers William
-Our Fragment (by) Skrux (and) Missio
+Our Fragment (by) Skrux (and) MISSIO
 Higher Love (by) Seven Lions (and) Jason Ross (and) Paul Meany
 Handsome Devil (by) Oyama
 Unbreakable (by) H3ctic
@@ -113,7 +113,7 @@ The Wolves - Koven Remix (by) Amy Steele (and) Koven
 Cortisol (by) Sthesia !! NOT PLAYABLE
 Forest of Wonder (by) Philter
 The Fall (by) Cryptex
-Where Is My Mind (by) FMLYBND
+Where Is My Mind (by) FMLYBND !! NOT PLAYABLE
 Ego Sleep (by) Amarante
 Mr. Dillinger (by) Mogi Grumbles
 Satellite - Original Mix (by) Froxic
@@ -158,10 +158,10 @@ Opus One (by) Russ Liquid
 Freedom - Radio Edit (by) Da Tweekaz (and) Neilio
 Missing You (by) Trash80
 Ninety Miles (by) Shockline
-Lessons (Instrumental) (by) SOHN
+Lessons - Instrumental (by) SOHN
 Mass (by) Virtual Boy
 Clocktower (Sound Remedy Remix) (by) Noosa
-Experience - Starkey Remix (by) Ludovico Einaudi (and) Starkey
+Experience - Starkey Remix (by) Ludovico Einaudi (and) Starkey (and) I Virtuosi Italiani
 For Silence (by) Paul Hartnoll !! NOT PLAYABLE
 Keyboard Milk (by) Röyksopp
 p:Machinery (by) Orkidea
@@ -239,11 +239,11 @@ Dreams (by) Itro
 Fate (by) PINES
 Morning Mountain (by) Essay (and) Rhian Sheehan
 Mind Like a Diamond (by) Kodomo
-The Summit - Original Mix (by) BH
+The Summit (by) BH
 Last Night I Heard Everything in Slow Motion (by) Oliver Tank
 Liberty Flute (by) Axel Boy
 Icarus (feat. CoMa) (by) Synthetic Epiphany
-Dusted Compass (Phutureprimitive Remix) [feat. Lila Rose] (by) The Human Experience (and) Phutureprimitive (and) Lila Rose
+Dusted Compass (Phutureprimitive Remix) [feat. Lila Rose] (by) The Human Experience (and) Phutureprimitive (and) LILA ROSE
 The Queen of All Everything (by) Ott
 Travelling Light (by) Daydreamer
 Discovery (Playstation 4 Theme) (by) Good Blood
@@ -266,7 +266,7 @@ Waves (by) Kanye West
 Horizon (by) ambinate
 Falling (feat. the Human Experience & Colibri) (by) Phutureprimitive (and) The Human Experience (and) Colibri
 Beijing (by) Rocket Empire
-Calabria - Firebeatz Remix (by) Rune RK
+Calabria - Firebeatz Remix (by) Rune RK (and) Firebeatz
 Je suis le vent (by) Working for a Nuclear Free City
 Adventure (by) Disasterpeace
 If You (by) Skrux
@@ -278,7 +278,7 @@ Come Around (by) MOONZz
 Sleepwalker (by) AWAY (and) London Thor
 Recognize (Proppa Remix) [feat. Ashe] (by) Win and Woo (and) Ashe
 Champagne & Sunshine (by) PLVTINUM (and) Tarro
-U Mad (by) Vic Mensa (and) Kanye West
+U Mad (by) VIC MENSA (and) Kanye West
 L$D (by) A$AP Rocky
 Trap Door (by) Gemini
 From Roots to Needles (by) If These Trees Could Talk
@@ -315,7 +315,7 @@ Diving In - (Rameses B Remix) (by) Holly Drummond
 Hold (feat. Daniela Andrade) (by) Dabin (and) Daniela Andrade
 curse (by) Koda
 Between the Devil and the Deep Blue Sea (by) XYLØ
-Just For Today (by) Hybrid
+Just For Today - Original (by) Hybrid
 Frozen - Original Mix (by) Johnatron (and) Sferro
 Elaina's Theme (by) Tom Player
 Matilda - Live Version (by) Oskar Schuster
